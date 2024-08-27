@@ -4,4 +4,4 @@ A simple script to re-authenticate to a captive portal when session expires.
 
 ## ughhh
 
-FREE WIFI FROM KTX DUT :)
+FREE WIFI FROM KTX [DUT](http://dut.udn.vn) :)
